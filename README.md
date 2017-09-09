@@ -5,7 +5,7 @@ Lightweight multi-paradigm PHP (JSON) client for the [Shopify API](http://api.sh
 
 ## Requirements
 
-* PHP 4 with [cURL support](http://php.net/manual/en/book.curl.php).
+* PHP 5.4 with [cURL support](http://php.net/manual/en/book.curl.php).
 * Only compatible OAuth Shopify Apps.  For Legacy Authentication: [Use an old version of ohShopify.php](https://github.com/cmcdonaldca/ohShopify.php/blob/7ee7a344ca83518a0560ba585d4f8deab65bf5cd/shopify.php)
 
 
