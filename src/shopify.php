@@ -1,4 +1,5 @@
-<?php namespace lngo\ShopifySDKPHP;
+<?php 
+// namespace lngo\ShopifySDKPHP;
 
 /**
 *
