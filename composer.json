@@ -1,0 +1,24 @@
+{
+    "name": "lngo/shopify-sdk-php",
+    "description": "Shopify SDK PHP had cloned from https://github.com/cmcdonaldca/ohShopify.php.git.",
+    "keywords": ["sdk", "composer", "package", "shopify", "api"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "LNGO",
+            "email": "lengo1193@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "lngo\\shopify-sdk-php\\": "src/"
+        }
+    }
+}
