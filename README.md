@@ -16,8 +16,11 @@ Basic needs for authorization and redirecting
 ```php
 <?php
 
-	require 'shopify.php';
+	This libary it working in yii2 framework at currently.
 
+	You allow create new branch to change code base or change namespace anyway make your app running. :D
+
+	require 'path/to/shopify.php';	
 	/* Define your APP`s key and secret*/
 	define('SHOPIFY_API_KEY','');
 	define('SHOPIFY_SECRET','');
@@ -88,7 +91,7 @@ Making API calls:
 ```php
 <?php
 
-	require 'shopify.php';
+	require 'path/to/shopify.php';
 
 	$sc = new ShopifyClient($_SESSION['shop'], $_SESSION['token'], $api_key, $secret);
 

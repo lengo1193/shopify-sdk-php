@@ -1,5 +1,6 @@
 <?php 
-// namespace lngo\ShopifySDKPHP;
+namespace app\controllers;
+use yii\base\Exception;
 
 /**
 *
